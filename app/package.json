@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This a project made in NodeJS",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playerblade/VotingSystem.git"
+  },
+  "author": "Group 5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playerblade/VotingSystem/issues"
+  },
+  "homepage": "https://github.com/playerblade/VotingSystem#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
